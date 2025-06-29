@@ -12,13 +12,6 @@ TOPIC I HAVE LEARN THIS SEMESTER:
 Chapter 1: Emerging Technology in ICT
 This chapter introduces new and trending technologies in Information and Communication Technology (ICT), such as Artificial Intelligence (AI), Internet of Things (IoT), Big Data, and Blockchain. These technologies are changing how people work, communicate, and solve problems in many industries.
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=OxY02O45vb0" target="_blank">
-    <img src="https://img.youtube.com/vi/OxY02O45vb0/0.jpg" width="400">
-  </a>
-</p>
-
-
 Chapter 2: Computer Hardware
 
 We learned about the physical parts of a computer, including the system unit (CPU, RAM, motherboard) and input/output devices (keyboard, mouse, monitor, printer). The chapter also covers secondary storage like hard drives and SSDs, and explains how hardware has evolved over time.
@@ -46,34 +39,36 @@ This chapter introduces cloud computing, where data and software are stored on t
 
 ASSESMENTS:
 1) Design Thinking Projects
+   
 2) Github Portfolio
 3) Expert Group Presentations
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5956feef-433b-46c1-b0f4-240e17d57ac2" width="300">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/ecceca53-7699-456a-895c-a3aa0c2b50da" width="300">
+  <img src="https://github.com/user-attachments/assets/5956feef-433b-46c1-b0f4-240e17d57ac2" width="250">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/ecceca53-7699-456a-895c-a3aa0c2b50da" width="250">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/e9977b56-4049-4872-ad44-f02edaaf1e4e" width="250">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9977b56-4049-4872-ad44-f02edaaf1e4e" width="300">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/f50e3be0-5bb5-465b-83fd-4a231b952fa5" width="300">
+  <img src="https://github.com/user-attachments/assets/f50e3be0-5bb5-465b-83fd-4a231b952fa5" width="250">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f1899b6d-3ea1-47e1-9607-f7f0eb82c967" width="250">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/6ce8f281-bb75-4ee6-a56b-7a17a52bd3bd" width="250">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f1899b6d-3ea1-47e1-9607-f7f0eb82c967" width="300">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/6ce8f281-bb75-4ee6-a56b-7a17a52bd3bd" width="300">
+  <img src="https://github.com/user-attachments/assets/1df11c3d-794c-4482-be40-0e936f07cf4e" width="250">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/9525026f-d932-495c-b2e7-7642651740be" width="250">
+  &nbsp;&nbsp;
+  <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/12/Types-of-Computer-Hardware.png" width="250">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1df11c3d-794c-4482-be40-0e936f07cf4e" width="300">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/9525026f-d932-495c-b2e7-7642651740be" width="300">
-</p>
 
-4) Jigsaw Group (Individual reflections)
+5) Jigsaw Group (Individual reflections)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5d8e84b5-4d3e-4109-85e8-15936a3cd5e6" width="300">
   &nbsp;&nbsp;&nbsp;
