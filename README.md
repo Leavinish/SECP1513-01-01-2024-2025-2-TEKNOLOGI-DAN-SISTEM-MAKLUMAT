@@ -33,6 +33,7 @@ ASSESMENTS:
 1) Design Thinking Projects
 2) Github Portfolio
 3) Expert Group Presentations
+   
    <p align="center">
   <img src="https://github.com/user-attachments/assets/5956feef-433b-46c1-b0f4-240e17d57ac2" width="400">
 </p>
