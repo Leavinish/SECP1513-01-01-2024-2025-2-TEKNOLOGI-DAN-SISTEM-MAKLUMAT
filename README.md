@@ -1,10 +1,5 @@
-
-
 📘 Introduction to Technology Information System
 
-<p align="center">
-  <img src="https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/blob/main/images.jpg?raw=true" alt="TIS Image" width="400">
-</p>
 
 
 Technology Information System (TIS) is a combination of people, hardware, software, data, and processes that work together to collect, store, manage, and share information. It plays a key role in helping organizations make better decisions, improve efficiency, and solve problems using technology. In today’s digital world, TIS is used in almost every field, including business, education, healthcare, and government.
