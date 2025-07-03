@@ -31,13 +31,25 @@ You explored how personal data should be protected and used responsibly. The cha
 Chapter 7: Cloud Computing
 This chapter introduces cloud computing, where data and software are stored on the internet (cloud) instead of on your own computer. You learned about cloud services like SaaS, PaaS, and IaaS, and the benefits such as cost saving, flexibility, and remote access.
 
-🎨 **Design Thinking Project**
+## 📝 Assessments:
 
-📁 [Design Thinking Project Folder](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/Design%20Thinking%20Project)
+1. 📁 [Design Thinking Project Folder](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/Design%20Thinking%20Project)  
 
-🎨 [PRESENTATION](https://www.canva.com/design/DAGrI5SeOMc/m4kknJ13r4U3HAMcw2_OxQ/edit)
+2. 📄 [Presentation (Canva)](https://www.canva.com/design/DAGrI5SeOMc/m4kknJ13r4U3HAMcw2_OxQ/edit)  
 
-🎨 **JIGSAW GROUP**
+3. 🧩 [Prototype (Visily)](https://app.visily.ai/projects/42b8080e-eada-4d9d-8cd0-3c4c8c2327a0/boards/1934884)  
 
-📁 [Click here to view the Design Thinking Project folder](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/Design%20Thinking%20Project)
+4. 📁 [Expert Group – Presentation Notes](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/Expert%20Group%20-%20Presentation%20notes)  
+
+5. 📁 [Jigsaw Group – Individual Reflection](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/jiigsaw%20group%20-%20Individual%20reflection)  
+
+6. 📄 [Industrial Talk 1](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/INDUSTRIAL%20TALK%201)  
+
+7. 📄 [Industrial Talk 2 – Presenter](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/INDUSTRIAL%20TALK%202-PRESENTER)  
+
+8. 📄 [Industrial Talk 3](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/INDUSTRIAL%203)  
+
+
+
+
 
