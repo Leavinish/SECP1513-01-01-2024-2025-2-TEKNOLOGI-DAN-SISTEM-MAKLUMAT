@@ -5,31 +5,31 @@
 </p>
 
 
-Technology Information System (TIS) is a combination of people, hardware, software, data, and processes that work together to collect, store, manage, and share information. It plays a key role in helping organizations make better decisions, improve efficiency, and solve problems using technology. In today’s digital world, TIS is used in almost every field, including business, education, healthcare, and government.
+## 💡 Introduction to Technology and Information System (TIS)
 
-TOPIC I HAVE LEARN THIS SEMESTER:
+Technology Information System (TIS) is a combination of people, hardware, software, data, and processes that work together to collect, store, manage, and share information. It plays a key role in helping organizations make better decisions, improve efficiency, and solve problems using technology.
 
-Chapter 1: Emerging Technology in ICT
-This chapter introduces new and trending technologies in Information and Communication Technology (ICT), such as Artificial Intelligence (AI), Internet of Things (IoT), Big Data, and Blockchain. These technologies are changing how people work, communicate, and solve problems in many industries.
+In today’s digital world, TIS is used in almost every field — including business, education, healthcare, and government.
 
-Chapter 2: Computer Hardware
-We learned about the physical parts of a computer, including the system unit (CPU, RAM, motherboard) and input/output devices (keyboard, mouse, monitor, printer). The chapter also covers secondary storage like hard drives and SSDs, and explains how hardware has evolved over time.
+---
 
+## 📘 Topics I Learned This Semester:
 
-Chapter 3: Software
-This chapter covers the types of software: system software (like operating systems) and application software (like Microsoft Word or Excel). It also explains how software helps users and hardware work together to perform tasks.
+### 1️⃣ Chapter 1: Emerging Technology in ICT  
+🚀 Introduced new and trending technologies like Artificial Intelligence (AI), Internet of Things (IoT), Big Data, and Blockchain. These tools are changing how industries work, communicate, and solve problems.
 
-Chapter 4: Information System and SAD (System Analysis and Design)
-You learned how information systems collect, process, store, and share data to support decision-making. The chapter also introduces System Development Life Cycle (SDLC), a step-by-step method for designing and building new systems.
+### 2️⃣ Chapter 2: Computer Hardware  
+🖥️ Learned about physical components like CPU, RAM, motherboard, input/output devices (keyboard, monitor, printer), and storage devices (HDD, SSD). Also explored the evolution of hardware.
 
-Chapter 5: Databases and Data Analytics
-This chapter explains how data is stored in databases, managed using Database Management Systems (DBMS), and analyzed to find useful insights. Topics include data types, data models, and data analytics tools used in business.
+### 3️⃣ Chapter 3: Software  
+💽 Covered system software (e.g., operating systems) and application software (e.g., Microsoft Word, Excel). Showed how software bridges users and hardware to complete tasks.
 
-Chapter 6: Privacy and Ethics
-You explored how personal data should be protected and used responsibly. The chapter discusses ethical issues in using technology, like data misuse, cybercrime, and the importance of following privacy laws and guidelines.
+### 4️⃣ Chapter 4: Information System & SAD (System Analysis and Design)  
+🛠️ Learned how systems collect, process, and store data. Introduced the System Development Life Cycle (SDLC) used to build and manage systems.
 
-Chapter 7: Cloud Computing
-This chapter introduces cloud computing, where data and software are stored on the internet (cloud) instead of on your own computer. You learned about cloud services like SaaS, PaaS, and IaaS, and the benefits such as cost saving, flexibility, and remote access.
+### 5️⃣ Chapter 5: Databases and Data Analytics  
+📊 Explained how data is stored using DBMS and analyzed to support
+
 
 ## 📝 Assessments:
 
@@ -47,7 +47,34 @@ This chapter introduces cloud computing, where data and software are stored on t
 
 7. 📄 [Industrial Talk 2 – Presenter](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/INDUSTRIAL%20TALK%202-PRESENTER)  
 
-8. 📄 [Industrial Talk 3](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/INDUSTRIAL%203)  
+8. 📄 [Industrial Talk 3](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/INDUSTRIAL%203)
+
+## 📚 What I Learned in Technology and Information Systems (TIS)
+
+- 💻 **Computer Hardware & Software**  
+  Learned how physical components and software work together to run systems.
+
+- 🗂️ **Databases & Data Management**  
+  Gained knowledge on storing, retrieving, and analyzing data efficiently.
+
+- 🛠️ **System Analysis & Design (SAD)**  
+  Understood how to plan, design, and develop information systems for real-world problems.
+
+- 🔐 **Privacy, Ethics & Security**  
+  Explored ethical concerns and data protection in digital environments.
+
+- 🚀 **Emerging Technologies in ICT**  
+  Discovered the latest trends like AI, IoT, and how they’re shaping the future.
+
+- ☁️ **Cloud Computing**  
+  Learned how cloud platforms offer scalable and accessible solutions.
+
+- 👥 **Teamwork & Communication**  
+  Improved collaboration, presentation, and communication through group projects.
+
+- 🎯 **Real-World Application**  
+  Applied theories through projects like Design Thinking, Visily prototyping, and Industrial Talk reflections.
+
 
 
 
