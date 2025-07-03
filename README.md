@@ -30,3 +30,14 @@ You explored how personal data should be protected and used responsibly. The cha
 
 Chapter 7: Cloud Computing
 This chapter introduces cloud computing, where data and software are stored on the internet (cloud) instead of on your own computer. You learned about cloud services like SaaS, PaaS, and IaaS, and the benefits such as cost saving, flexibility, and remote access.
+
+🎨 **Design Thinking Project**
+
+📁 [Design Thinking Project Folder](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/Design%20Thinking%20Project)
+
+🎨 [PRESENTATION](https://www.canva.com/design/DAGrI5SeOMc/m4kknJ13r4U3HAMcw2_OxQ/edit)
+
+🎨 **JIGSAW GROUP**
+
+📁 [Click here to view the Design Thinking Project folder](https://github.com/Leavinish/SECP1513-01-01-2024-2025-2-TEKNOLOGI-DAN-SISTEM-MAKLUMAT/tree/main/Design%20Thinking%20Project)
+
